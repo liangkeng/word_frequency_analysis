@@ -47,6 +47,7 @@ def word_cloud(text_dict):
 
 
 if __name__ == '__main__':
+    #依次运行1.2.3，并将3的结果给4
     # get_url(url_list)   #1.得到文章url
     #
     #find_article_info()   #2.爬取文章内容
