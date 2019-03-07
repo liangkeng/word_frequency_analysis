@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
     # word_frequency_analysis()  #3.词频分析
 
-    word_cloud(text_dict)            #4词云
+    # word_cloud(text_dict)            #4词云
 
     print(1)
 
